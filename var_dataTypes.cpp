@@ -19,6 +19,7 @@ int main(){
     bool power = true;
     //string(objects that represents a sequenece of text)
     std::string name = "bro";
+    // t
     
 
 
